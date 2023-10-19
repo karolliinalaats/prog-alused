@@ -3,7 +3,7 @@ word = "spider"
 # 2
 thousand = "1000"
 # 3
-ten = "10"
+ten = 10
 # 4
 first_half = "full"
 # 5
